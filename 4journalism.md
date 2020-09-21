@@ -4,7 +4,7 @@ title: Journalism
 permalink: "/journalism/"
 ---
 
-## [International Reporting Crisis Fellow, Pulitzer Center]
+## International Reporting Crisis Fellow, Pulitzer Center
 
 [Visible Legacies for Invisible Battalions](https://pulitzercenter.org/reporting/ukraine-visible-legacies-invisible-battalions)
 
