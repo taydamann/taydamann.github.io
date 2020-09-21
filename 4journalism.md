@@ -4,7 +4,7 @@ title: Journalism
 permalink: "/journalism/"
 ---
 
-## [International Reporting Crisis Fellow, Pulitzer Center](https://pulitzercenter.org/people/taylor-damann)
+## [International Reporting Crisis Fellow, Pulitzer Center]
 
 [Visible Legacies for Invisible Battalions](https://pulitzercenter.org/reporting/ukraine-visible-legacies-invisible-battalions)
 
@@ -12,4 +12,4 @@ permalink: "/journalism/"
 
 [Ukraine: Women of the War](https://pulitzercenter.org/reporting/ukraine-women-war)
 
-## Managing Editor, [Gateway Journalism Review](http://gatewayjr.org/)
+Presentation at National Geographic, 2019: “Femme Force: Women’s Contributions to Ukraine’s War”
